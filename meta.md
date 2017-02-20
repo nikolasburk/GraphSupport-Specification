@@ -57,7 +57,7 @@
 
 - 1️⃣ Basic chat
 	- **Covers sections**: Data modelling, Queries, Mutations
-	- **Includes stories**: 1.1, 2.1, 3.1, 3.2
+	- **Includes stories**:
 		- Customer wants to initiate a chat with operator (1.1)
 		- Operator wants to initiate a chat with customer (2.1) 
 		- Admin wants to see all chats (3.1)
@@ -65,14 +65,14 @@
 
 - 2️⃣ Advanced chat
 	- **Covers sections**: Subscriptions, Mutations
-	- **Includes stories**: 1.2, 2.2, 2.3
+	- **Includes stories**:
 		- Customer wants to chat and see when operator is typing (1.2)
 		- Operator wants to chat and see when customer is typing (2.2) 
 		- Operator wants to archive a conversation (2.3)
 	
 - 3️⃣ Basic admin functionality
 	- **Covers sections**: Mutation Callbacks
-	- **Includes stories**: 2.4, 2.5, 3.3, 3.4
+	- **Includes stories**:
 		- Operator wants to receive a notification when a conversation was rated (2.4) 
 		- Operator wants to see average rating (2.5) 
 		- Admin want to receive a notification when an operator archived a chat (3.3)
@@ -80,7 +80,7 @@
 
 - 4️⃣ File upload & storage	
 	- **Covers sections**: File management, Permissions
-	- **Includes stories**: 1.3, 2.6, 3.5
+	- **Includes stories**: 
 		- Customer wants to upload a file in the chat (1.3) 
 		- Operator wants view a file that gets sent by a customer in a chat (2.6) 
 		- Admin wants to delete files from the database (3.5)
